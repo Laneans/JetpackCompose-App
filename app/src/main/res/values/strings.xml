@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy birthday Liana!</string>
+    <string name="signature_text">From Emma</string>
+    <string name="title_activity_tutorial_screen">TutorialScreen</string>
+    <string name="next_screen_text">Next screen</string>
+    <string name="jetpack_compose_tutorial_text">Jetpack Compose tutorial</string>
+    <string name="about_compose_text">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="info_compose_text">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\\\'s UI programmatically because they let you describe how it should look.</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="all_tasks_completed_text">All tasks completed</string>
+    <string name="nice_work_text">Nice work!</string>
+</resources>
